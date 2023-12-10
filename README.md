@@ -1,0 +1,20 @@
+### Hi there 👋, My Name is James
+#### I am a student at National Taichung University of Science and Technology
+![I am a student at National Taichung University of Science and Technology](https://pbs.twimg.com/profile_images/1728697270726709248/Zt5NxEPq_400x400.jpg)
+
+I made this pages to let you know more about me.
+* English name(英文名字): James Sebastian Budianto
+* Chinese Name(中文名字): 李鄉星
+* Country(國家): Indonesia (印尼)
+* Date of Birth(生日): 2005年04月03日
+* Age(年齡): 18
+* Hobby(愛好): Volleyball(排球), Table Tennis(桌球)
+* Email: jamesbudianto44@gmail.com
+
+Skills: Python
+
+- 🌱 I’m currently learning Computer Science and Information Engineering 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamessebastianb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jamessebastianb/)  
+
